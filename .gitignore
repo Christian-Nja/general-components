@@ -1,3 +1,9 @@
+# My file
+.babelrc
+.eslintrc
+.eslintignore
+.gitignore
+
 # Logs
 logs
 *.log
